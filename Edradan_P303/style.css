@@ -1,0 +1,50 @@
+div {
+	background-image: url("peeps.jpg");
+	width: 250px;
+	padding: 50px;
+	margin: 50px;
+	margin-left: auto;
+	margin-right:auto;
+	border-radius: 25px;
+}
+body{  
+  font-family: Calibri, Helvetica, sans-serif;  
+  background-color:black;  
+}
+h3{
+	background-color: red;
+	border-radius: 10px;
+	font-family: unset;
+	text-transform: uppercase;
+	font-size: 30px;
+	font-weight:normal;
+	text-align:center;
+	font-weight: bold;
+	color: white;
+	margin-top: unset;
+	margin-bottom: unset;
+}
+.button{
+	color:black;
+	font-family: monospace;
+	font-weight:bolder;
+	font-size: large;
+	padding:10px 20px;
+	margin:8px 0;
+	border:none;
+	cursor:pointer;
+	opacity:20;
+	margin-bottom: unset;
+}
+.my-form{
+	text-align:center;
+}
+.my-form label{
+	font-family: cursive;
+	font-size: 14px;
+	font-weight: bold;
+	color:black;
+	background-color: white;
+}
+
+

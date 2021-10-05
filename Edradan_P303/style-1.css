@@ -1,0 +1,50 @@
+div {
+	background-color: #fefefefe;
+	width: 175px;
+	height: 300px;
+	padding: 50px;
+	margin: 50px;
+	margin-left: auto;
+	margin-right:auto;
+	border-radius: 10px;
+}
+body{  
+  font-family: Calibri, Helvetica, sans-serif;  
+  background-image: url("backlog.jpg");
+  background-size: 1500px 1500px;
+  background-repeat: : no-repeat;
+}
+h3{
+	font-family: initial;
+	color:black;
+	text-transform: uppercase;
+	font-size: 30px;
+	font-weight:normal;
+	text-align:center;
+	font-weight: bold;
+	margin-bottom: unset;
+}
+.button {
+	color:black;
+	font-family: monospace;
+	font-weight:bolder;
+	padding:10px 15px;
+	border:none;
+	cursor:pointer;
+}
+.my-form label{
+	font-family: monospace;
+	font-size: 15px;
+	color:red;
+	font-weight: bold;
+}
+.my-form input{
+	margin-top: 10px;
+	outline:none;
+}
+.my-form ul{
+	list-style: none;
+	font-size: 10px;
+	text-align: right;
+}
+
